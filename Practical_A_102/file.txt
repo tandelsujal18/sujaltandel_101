@@ -1,0 +1,3 @@
+GitHub is a cloud-based platform used to store and manage source code using Git.
+It helps developers collaborate, track changes, and maintain version control of projects.
+GitHub also supports features like repositories, branches, and pull requests for team development.
