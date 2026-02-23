@@ -56,15 +56,9 @@ It includes Python programs, GitHub operations, and proper documentation for all
 
 ## 📸 Output Screenshots
 
-### 🔢 Inverted Number Pattern
-![Inverted](screenshots/inverted_output.png)
-
-### 🔤 Alphabet Pyramid Pattern
-![Alphabet](screenshots/alphabet_output.png)
-
-### 🔢 Odd Numbers Program
-![Odd](screenshots/odd_output.png)
-
+![Inverted](inverted_output.png)
+![Alphabet](alphabet_output.png)
+![Odd](odd_output.png)
 ---
 
 ## ✅ Conclusion
